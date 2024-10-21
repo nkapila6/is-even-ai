@@ -30,7 +30,7 @@ OPENAI_API_KEY=your-api-key
 Here's an example of how to use the `is-even-ai` package in your project:
 
 ```javascript
-const isOdd = require('is-even-ai');
+const isEven = require('is-even-ai');
 
 (async () => {
     const number = 5;
