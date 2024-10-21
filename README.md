@@ -41,7 +41,7 @@ const isEven = require('is-even-ai');
 
 ## Function
 
-### `isOdd(number)`
+### `isEven(number)`
 
 - **Parameters:** `number` (Number) - The number to check.
 - **Returns:** `Promise<Boolean>` - Resolves to `true` if the number is even, `false` if odd.
