@@ -3,7 +3,7 @@
 const assert = require('assert');
 const isEven = require('../index');
 
-describe('isOdd function', () => {
+describe('isEven function', () => {
     it('should return false for even numbers', async () => {
         const result = await isEven(7);
         assert.strictEqual(result, false);
