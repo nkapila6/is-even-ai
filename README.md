@@ -1,7 +1,5 @@
 # is-even-ai
 
-[![npm version](https://badge.fury.io/js/is-odd-ai.svg)](https://badge.fury.io/js/is-odd-ai)
-
 Why check if something is even simply, when you can do it with ✨AI✨
 
 `is-even-ai` is a unique package that utilizes OpenAI's GPT-3.5-turbo model to determine if a number is odd or even. Because sometimes you just want to add a little bit of AI magic to your number checking!
