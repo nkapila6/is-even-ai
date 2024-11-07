@@ -1,5 +1,4 @@
 // index.js
-
 const isOdd = require("is-odd-ai");
 require("dotenv").config();
 
