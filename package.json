@@ -9,8 +9,9 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "axios": "^1.7.2",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "is-odd-ai": "^1.0.2",
+    "jest": "^29.7.0"
   },
   "devDependencies": {
     "mocha": "^10.5.2"
